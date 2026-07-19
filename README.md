@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>🌐 <a href="#" target="_blank">Portfolio</a></b> &nbsp;•&nbsp;
-  <b>💼 <a href="https://linkedin.com" target="_blank">LinkedIn</a></b> &nbsp;•&nbsp;
+  <b>💼 <a href="https://www.linkedin.com/in/raviranjankumarmca?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">LinkedIn</a></b> &nbsp;•&nbsp;
   <b>💬 <a href="https://wa.me" target="_blank">WhatsApp</a></b> &nbsp;•&nbsp;
   <b>🧠 <a href="https://leetcode.com" target="_blank">LeetCode</a></b>
 </p>
