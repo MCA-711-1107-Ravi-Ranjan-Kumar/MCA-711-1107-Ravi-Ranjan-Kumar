@@ -1,12 +1,5 @@
 
 # <p align="center">Ravi Ranjan Kumar</p>
-<p align="center">
-  <img src="https://vercel.app" alt="Header Banner" />
-</p>
-<div style="background-color: #1f2328; padding: 20px; border-radius: 6px; text-align: center;">
-  <h1 style="color: #ffffff; margin: 0; font-family: sans-serif;">Ravi Ranjan Kumar</h1>
-  <p style="color: #8b949e; margin: 5px 0 0 0;">Always learning, always improving</p>
-</div>
 
 
 <p align="center">
