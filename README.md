@@ -1,13 +1,18 @@
-
 # <p align="center">Ravi Ranjan Kumar</p>
 
+<p align="center">
+  <b>🚀 Always learning, always growing</b>
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/raviranjankumarmca" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-
-  </a>
+  <b>🌐 <a href="#" target="_blank">Portfolio</a></b> &nbsp;•&nbsp;
+  <b>💼 <a href="https://linkedin.com" target="_blank">LinkedIn</a></b> &nbsp;•&nbsp;
+  <b>💬 <a href="https://wa.me" target="_blank">WhatsApp</a></b> &nbsp;•&nbsp;
+  <b>🧠 <a href="https://leetcode.com" target="_blank">LeetCode</a></b>
 </p>
+
+---
+
 
 ### 🛠️ About Me
 I am a passionate Full-Stack Web Developer and Data Analyst. Having recently completed my MCA from CIMAGE, I love building scalable web applications and extracting meaningful insights from data. I am continuously learning and sharpening my technical skills.
