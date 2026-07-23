@@ -1,4 +1,5 @@
-# <p align="center">Ravi Ranjan Kumar</p>
+# <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=999999&color=8A2BE2,F97316&center=true&vCenter=true&repeat=false&width=500&lines=Ravi+Ranjan+Kumar" />Ravi Ranjan Kumar</p>
 
 <p align="center">
   <b>🚀 Always learning, always growing</b>
