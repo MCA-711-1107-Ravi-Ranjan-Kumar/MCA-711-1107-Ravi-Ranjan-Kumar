@@ -15,7 +15,7 @@
 
 
 ### 🛠️ About Me
-I am a passionate Full-Stack Web Developer and Data Analyst. Having recently completed my MCA from CIMAGE, I love building scalable web applications and extracting meaningful insights from data. I am continuously learning and sharpening my technical skills.
+I am a passionate Computer Networks Full-Stack Web Developer and Data Analyst. Having recently completed my MCA from CIMAGE, I love building scalable web applications and extracting meaningful insights from data. I am continuously learning and sharpening my technical skills.
 
 - 🔭 I’m currently focused on: **Full-Stack Web Development (MERN Stack)**
 - 📊 Areas of Expertise: **Data Management, Analytics & Visualization**
