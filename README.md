@@ -19,7 +19,8 @@ I'm a passionate **Computer Engineering** student with a strong interest in codi
 - 💡 If you have a project idea or need a collaborator, feel free to reach out—let's make a difference together! 🤝
 
 ### 🔭 Current Projects
-# 🏥 MediGen-AI
+#🏥 MediGen-AI
+
 **A Secure Hybrid Healthcare Portal with Rule-Based Smart Prescription & E-Pharmacy Integration**
 
 MCA Project | Ravi Ranjan Kumar | Aryabhatta Knowledge University, Patna|
