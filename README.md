@@ -1,5 +1,13 @@
-
-# 👋 Hello, I'm Ravi Ranjan Kumar!
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=999999&color=8A2BE2,F97316&center=true&vCenter=true&repeat=false&width=500&lines=Ravi+Ranjan+Kumar"/>
+<p align="center">
+  <b>🚀 Always learning, always growing</b>
+</p>
+<p align="center">
+  <b>🌐 <a href="#" target="_blank">Portfolio</a></b> &nbsp;•&nbsp;
+  <b>💼 <a href="https://www.linkedin.com/in/raviranjankumarmca?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">LinkedIn</a></b> &nbsp;•&nbsp;
+  <b>💬 <a href="https://wa.me" target="_blank">WhatsApp</a></b> &nbsp;•&nbsp;
+  <b>🧠 <a href="https://leetcode.com" target="_blank">LeetCode</a></b>
+</p>
 
 ### 🚀 About Me
 I'm a passionate **Computer Engineering** student with a strong interest in coding and problem-solving. I'm constantly learning new technologies and exploring ways to apply my knowledge to real-world challenges.
